@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--芭蕉扇 样式定义-->
+
+    <attr name="archBigBackground" format="color|reference"></attr>
+    <attr name="archSmallBackground" format="color|reference"></attr>
+    <attr name="archMiniBackground" format="color|reference"></attr>
+
+    <attr name="archItemSeleteBackground" format="color|reference"></attr>
+    <attr name="archItemUnseleteBackground" format="color|reference"></attr>
+    <attr name="archItemTextColor" format="color|reference"></attr>
+
+    <attr name="archSmallSeleteBackground" format="color|reference"></attr>
+    <attr name="archSmallTextColor" format="color|reference"></attr>
+
+    <attr name="archMiniImage" format="color|reference"></attr>
+    <!--芭蕉扇 样式定义 END-->
+
+</resources>
