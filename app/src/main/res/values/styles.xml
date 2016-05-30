@@ -9,15 +9,15 @@
     >
         <item name="archBigBackground">@drawable/ic_banana_bg</item>
         <item name="archSmallBackground">@android:color/transparent</item>
-        <item name="archMiniBackground">@drawable/ic_arch_min_background</item>
+        <item name="archMiniBackground">@color/warning_stroke_color</item>
 
 
-        <item name="archItemSeleteBackground">@color/buleMain</item>
-        <item name="archItemUnseleteBackground">@color/buleWhite</item>
+        <item name="archItemSeleteBackground">@color/warning_stroke_color</item>
+        <item name="archItemUnseleteBackground">@color/unSelect</item>
         <item name="archItemTextColor">@color/ivory</item>
 
 
-        <item name="archSmallSeleteBackground">@color/buleMain</item>
+        <item name="archSmallSeleteBackground">@color/warning_stroke_color</item>
         <item name="archSmallTextColor">@color/ivory</item>
 
         <item name="archMiniImage">@android:color/transparent</item>

@@ -9,5 +9,62 @@
     <color name="buleMain">#e0303080</color>
     <color name="gray">#a0000000</color>
     <color name="transparent">#01000000</color>
+    <color name="pink">#A0FF4060</color>
+
+
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+
+    <color name="unSelect">#60F8BB86</color>
+
+
+    <color name="arch_bg_color_blue">#96BFD2</color>
+    <color name="arch_bg_color_drak_green">#2cb898</color>
+    <color name="arch_bg_color_bright_green">#23f7c6</color>
+    <color name="arch_bg_color_white">#50ffffff</color>
+    <color name="arch_bg_color__trans_black">#404741</color>
+
+    <color name="DRAK_GREEN">#2cb898</color>
+
+    <color name="DRAK_BLUE">#222</color>
+    <color name="BLACK_BLUE">#333</color>
+
+    <color name="color_808080">#808080</color>
+    <color name="color_606060">#606060</color>
+
+    <color name="color_80000000">#80000000</color>
+
+
+    <color name="tab_pressed">#6633B5E5</color>
+    <color name="transparency">#00000000</color>
+    <color name="color_505050">#505050</color>
+    <color name="color_50505050">#50505050</color>
+    <color name="color_F0F0F0">#F0F0F0</color>
+    <color name="color_40707070">#40707070</color>
+    <color name="color_fcfcfc">#FCFCFC</color>
+    <color name="white">#ffffff</color>
+    <color name="BLACK">#000000</color>
+    <color name="PURPLE">#9C27B0</color>
+    <color name="ORANGE">#FF5722</color>
+
+    <color name="DEEP_PURPLE">#673AB7</color>
+    <color name="BULE">#2196F3</color>
+    <color name="RED">#E91E63</color>
+    <color name="PINK">#F44336</color>
+    <color name="BULE_GREY">#455A64</color>
+
+
+
+    <color name="primary">#2cb898</color>
+    <color name="primary_dark">#FF0288D1</color>
+    <color name="status_bar_color">@color/primary_dark</color>
+
 
 </resources>
